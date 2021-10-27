@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SensorChp_1</string>
+    <string name="err_msg_username">Please Enter Username</string>
+    <string name="err_msg_userPasswprd">Please Enter Password</string>
+</resources>
